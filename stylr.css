@@ -1,0 +1,58 @@
+< !DOCTYPE html><html><head><style>body {
+    color: red;
+}
+
+h1 {
+    color: #00ff00;
+}
+
+p.ex {
+    background-color: blueviolet;
+    color: rgb(0, 0, 255);
+    font-size: large;
+
+
+}
+
+input {
+
+
+    margin-top: 20px;
+
+    /* Border Styles */
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+
+    /* Border Radius */
+    border-radius: 40px;
+    padding: 6px;
+
+}
+
+input[type=submit] {
+    border-radius: 0px;
+}
+
+
+.stories-section {
+    background-image: linear-gradient(45deg, orange, cyan);
+    padding: 20px;
+    width: 300px;
+    min-height: 300px;
+
+    background-size: contain;
+    background-repeat: no-repeat;
+    text-align: center;
+    letter-spacing: ;
+}
+
+font: bold;
+
+25% {
+    font-weight: ;
+}
+
+</style></head><body><h1>This Is My Webiste </h1><p>Hello ! I am Hafsah. I am learning how to code. 1.</p><p class="ex"
+
+>This is a paragraph with class="ex" . This text is blue.</p></body></html>script
